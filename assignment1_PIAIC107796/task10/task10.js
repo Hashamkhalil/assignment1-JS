@@ -10,7 +10,7 @@ document.write("<br/>Value after increment is: "+ a);
 a +=7;
 document.write("<br/>Value after addtion is: "+ a);
 
-a -=1;
+a--;
 document.write("<br/>Value after decrement is: "+ a);
 
 a %=2;
