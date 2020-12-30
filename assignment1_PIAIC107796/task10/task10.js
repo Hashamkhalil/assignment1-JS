@@ -4,7 +4,7 @@ document.write("Variable after variable decleration is "+ a);
 a = 5;
 document.write("<br/>Intial Value is: "+ a);
 
-a +=1;
+a++;
 document.write("<br/>Value after increment is: "+ a);
 
 a +=7;
